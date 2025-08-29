@@ -32,5 +32,5 @@
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: [linkedin.com/in/hardikgarg](#)  
+- LinkedIn: www.linkedin.com/in/hardik-garg-97566628b
 - Email: hardikgarg150@gmail.com  
